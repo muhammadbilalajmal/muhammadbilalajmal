@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... aI'm a passionate Front-End Developer with a strong foundation in modern web technologies. Currently pursuing my Bachelor's in Software Engineering at The University of Faisalabad, I combine academic knowledge with practical experience to create exceptional digital experiences.<br>My journey in web development started with a curiosity about how websites work, which evolved into a deep passion for creating intuitive and visually stunning user interfaces. I believe in writing clean, maintainable code and staying up-to-date with the latest industry trends.</p>
+<p align="left">My name is Muhammad Bilal. I'm a passionate Front-End Developer with a strong foundation in modern web technologies. Currently pursuing my Bachelor's in Software Engineering at The University of Faisalabad, I combine academic knowledge with practical experience to create exceptional digital experiences.<br>My journey in web development started with a curiosity about how websites work, which evolved into a deep passion for creating intuitive and visually stunning user interfaces. I believe in writing clean, maintainable code and staying up-to-date with the latest industry trends.</p>
 
 ###
 
@@ -42,17 +42,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/muhammadbilal_4104" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="programmer3133@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
